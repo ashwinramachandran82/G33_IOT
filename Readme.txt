@@ -17,3 +17,11 @@ Readme File
 		To send SMS alert to a local number using a Lambda function "SendSMS"
 	c) g33_send_buzzer_new
 		To actuate the buzzer using the Lambda function "setdesiredtstateforbuzzer" through REST API
+ 
+4) Kibana Dashboard can be seen from the following link.
+		
+		http://search-iot-74g6su3n4aupthnnhffmvewv2a.us-west-2.es.amazonaws.com/_plugin/kibana/#/discover
+		
+		Please open g33_dashboard
+
+
